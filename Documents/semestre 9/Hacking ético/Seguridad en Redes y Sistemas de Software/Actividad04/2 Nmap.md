@@ -1,0 +1,6 @@
+## Objetivo
+An in depth look at scanning with Nmap, a powerful network scanning tool.
+## Solución
+enseña cómo usar este escáner de red para descubrir hosts activos y escanear sus puertos abiertos, tanto con opciones básicas como avanzadas. Aprediendo diversos tipos de escaneos, como el **TCP connect**, el **SYN (stealth)** y otros más complejos como los escaneos **null**, **FIN**, **Xmas** e **idle (zombie)**. El room Nmap en TryHackMe enseña cómo usar este escáner de red para descubrir hosts activos y escanear sus puertos abiertos, tanto con opciones básicas como avanzadas. A través de este curso, aprenderás diversos tipos de escaneos, como el TCP connect, el SYN (stealth) y otros más complejos como los escaneos null, FIN, Xmas e idle (zombie).
+Además, se exploran técnicas avanzadas como la fragmentación de paquetes, el suplantado de direcciones y el uso de señuelos (decoys). También cubre cómo realizar detección de sistemas operativos, servicios, y cómo usar scripts de Nmap (NSE) para maximizar la recolección de información
+## Notas
